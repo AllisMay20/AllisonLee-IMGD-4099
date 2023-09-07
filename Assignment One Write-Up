@@ -1,0 +1,26 @@
+Technically, this assignment was quite challenging, but very fun to experiment with. I am not a CS student, therefore, I realized very quickly that I am in way over my head, but I still wanted to see if I could make something nice for this project, even if it is not as technically impressive as my classmates. 
+The technical focus of this was based around the Hexler-Style Sine wave. 
+Using this, I explored how the colors interacted with one another, how the different audio levels would influence the existing functions, 
+and tried out ways to modify the sine waves using functions such as noise, fract, and other math functions. I also played around with things such as mouse coordinates to manually play around with the music. 
+I tried other functions, but I realized that I had forgotten to include them in the actual recording. 
+I would have re-recorded if I had not been late on the assignment. Had I been able to be more time-efficient, I would have liked to have a more contrasting shape or pattern to layer on top. 
+I am proud that I managed to get an outcome at all, even if it is more simple than I would like. That being said, my favorite technical combination was layering the colors of waves by placing them in different color channels.
+It made it so that no matter what odd functions and modifiers I included, they would manage to blend in a nice way. 
+This became even more fun with things such as noise and mouse coordinates. 
+
+Aesthetically, I found the waves to be very satisfying to watch, as they looked a bit like flames or smoke from a fire. 
+The main goal was to try to take these waves into different moods for each stage if possible, such as adding noise during the chorus to capture that softened, retro vibe. 
+I wanted each addition to feel like it matched the energy of the music and tried to avoid things looking too messy while still doing as much as I could do while live coding with the two overlapping waves.
+An early creative process had me completely changing the scene of the waves very dramatically with each change in verse. 
+Had I more time and faster skill, I think this would be a really cool path to follow, with each segment almost being a playground of its own for me to change within each verse.
+In the end, since I didn’t have time, I ended up shortening things down and just focusing on one of these sections for the entirety of the song. 
+The shapes I would have added had I the time to really work it out and re-record would be something white and opaque, such as a soft-shaped flower or rotating group of balls, that would contrast against the rainbow background.
+
+
+
+I was not able to share my work with a classmate for feedback. 
+This was due not only to the time (the assignment is late already and it is night time now),
+but also because, in frankness, I am insecure by how low my skills are currently compared to the other students who have shown their work.
+I definitely understand that I will lose points for this section, as well as for my code being too simple. 
+I hope that both of these mistakes can be avoided in the future, and that I can do better with future assignments. 
+I will not make a habit of being shy since I know that feedback will only help me in this situation.
