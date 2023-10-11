@@ -1,0 +1,40 @@
+@fragment
+fn fs( @builtin(position) pos : vec4f ) -> @location(0) vec4f {
+ 
+var p : vec2f = rotate( (pos.xy / res) *2. - 1., PI/3.);
+
+
+let b = audio[0] * 10;
+
+  
+p.x += sin( p.y + (frame/60/8.) * 4. ) * .5 - 1.2; 
+p.y += sin( p.x + (frame/60/4.) * 4. ) * .5 - 1.7;
+
+let npos  = uvN( pos.xy );
+  let x   = mouse.x;
+  let y =  mouse.y;
+
+
+
+
+// VERSE B
+  let n = noise2 (vec2f(pos.x, frame) );
+  let at =  atan((abs(p.y * 10)));
+  p.x += cos(fract(5.));
+  p.y += cos(fract(5.));
+  let color =  (abs(p.y/));
+  let color2 =  (abs(p.x ));
+
+// MOUSE MOMENT
+  
+
+
+  //fract
+  // + atan((abs(p.y/a * 10)))
+  // + sin(abs(p.x/b))
+  
+
+
+  
+return vec4f( color,color2, .3, .1);
+}
