@@ -3,7 +3,7 @@ Assignments for IMGD 4099
 
 Assignment #1: [Video](https://www.youtube.com/watch?v=noy9z1E-x9I), [Code](https://github.com/AllisMay20/AllisonLee-IMGD-4099/blob/main/Assignment%20One%20Code), [Explanation](https://github.com/AllisMay20/AllisonLee-IMGD-4099/blob/main/Assignment%20One%20Write-Up)
 
-Assignment #2: [Website](https://gaudy-foremost-heath.glitch.me), [Repo], [Explanation](https://github.com/AllisMay20/AllisonLee-IMGD-4099/blob/main/Assignment%202/Assignment%202%20Write-up)
+Assignment #2: [Website](https://gaudy-foremost-heath.glitch.me), [Repo](https://github.com/AllisMay20/AllisonLee-IMGD-4099/tree/main/Assignment%202), [Explanation](https://github.com/AllisMay20/AllisonLee-IMGD-4099/blob/main/Assignment%202/Assignment%202%20Write-up)
 
 Assignment #3: 
 
