@@ -1,0 +1,15 @@
+	This assignment was pretty tricky for me. 
+As someone new to advanced computer science (who bit off way more than she can chew, but that’s okay, I’m having fun), I found glitch a bit more accessible, or I guess, “friendly looking”. 
+That did, however, mean that I had to understand how webpages worked. The biggest chunk of time for this assignment for me was understanding how to build a webpage, how the code translated (especially the code for the noise), 
+and problem-solving in an environment I am not used to. With all that said, this was very fun to play around with,
+although staring at my own face for hours while fighting with syntax errors was truly an interesting experience.
+I wish I had unlimited time because I could seriously tweak these settings forever. 
+
+	Aesthetically, I liked how the cellular noise, specifically without the cell points in view, looked like the surface of water rippling.
+It was a bit of a learning curve to understand what all of the values meant, which is always something I struggle with when referencing different people’s code,
+especially since the book of shaders uses slightly different syntax. Things were kept more simple for my own sanity. 
+Referencing the blue look of the class example, I tried to use the cellular noise to cancel it out. I did this by placing a slider within the .r value of the final vector. 
+This slider shifts the red values for both out (the feedback and video) and color (the texture). The second slider is cell speed. This allows the user to change the speed in which the cells flow around one another.
+I did this by multiplying the slider with the frame rate. Finally, cell opacity works with the distance between the cells. It’s technically scaling, not opacity, but I think that sliding around in the lower values especially
+makes it almost appear like the cells are fading away. 
+If I had more time to add things, I would like to find a way to make the video itself ripple, as though you were really on water’s surface.
